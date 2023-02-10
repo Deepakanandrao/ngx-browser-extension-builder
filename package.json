@@ -1,0 +1,17 @@
+{
+  "name": "ngx-browser-extension-builder",
+  "version": "1.0.0",
+  "description": "angular cli builder  for chrome extension development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "angular",
+    "builder"
+  ],
+  "author": "Deepak Anandrao",
+  "license": "MIT"
+}
